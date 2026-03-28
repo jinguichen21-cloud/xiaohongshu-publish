@@ -1,0 +1,9 @@
+[project]
+name = "store-insight-report"
+version = "0.1.0"
+description = "XHSCollection 数据分析报告生成技能"
+requires-python = ">=3.11"
+
+dependencies = [
+    "requests>=2.28.0",
+]
